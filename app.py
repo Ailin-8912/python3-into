@@ -3,4 +3,7 @@ print("BELAJAR GIT DASAR")
 # git commit -m "isi pesan berubah"
 # git push -u origin main
 
-# --- cara tambah app.py
+# --- cara tambah app.py file ---
+# git add app.py
+# git commit -m add app file
+# git push -u origin main
