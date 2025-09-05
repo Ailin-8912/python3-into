@@ -36,19 +36,19 @@ for bukubuku in kitab:
 
 #5
 bioData1 = {
-    "nama":"Rafi",
-    "Asal":'Jakarta',
-    'umur':'16',
+    "nama":"Fulanah",
+    "Asal":'Jakarta / bandung',
+    'umur':'15',
     'kelas':'X SMA',
     'hobi':'Membaca Buku',
     'sifat': {
-        'sifat1':'rajin',
-        'sifat2':'semangat',
-        'sifat3':'disiplin',
-        'sifat4':'patuh'
+        'sifat1':'shalihah',
+        'sifat2':'pemalu',
+        'sifat3':'Rajin',
+        'sifat4':'taat',
     }}
 print("")
-print("Biodata santri: ")
+print("Biodata Istri Gw: ")
 print("")
 print("Nama: ",bioData1 ["nama"])
 print("Kelas: ",bioData1["kelas"])
